@@ -1,9 +1,9 @@
 # Lead Tracker — Chrome Extension
 
-![Lead Tracker Screenshot](https://github.com/user-attachments/assets/f21f676f-8313-4cb7-a4ff-b1e697e02ebc)
-
 A simple and lightweight **Google Chrome extension** that helps you save and manage leads (URLs).  
 You can save the **current browser tab** or **manually enter a link**, and all leads are stored locally in the browser.
+
+<img width="1470" height="585" alt="Screenshot 2025-12-26 at 4 00 28 AM" src="https://github.com/user-attachments/assets/067333d2-778c-4339-a89b-7ada0fd928af" />
 
 ---
 
